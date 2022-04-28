@@ -124,7 +124,9 @@ a star repo list
 
 ## clickhouse ##
 
-[ContentSquare / chproxy](): Open-Source ClickHouse http proxy and load balancer
+[ContentSquare / chproxy](https://github.com/ContentSquare/chproxy): Open-Source ClickHouse http proxy and load balancer
+
+[housepower / clickhouse_sinker](https://github.com/housepower/clickhouse_sinker): Easily load data from kafka to ClickHouse
 
 ## network ##
 
