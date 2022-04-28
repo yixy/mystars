@@ -1,2 +1,163 @@
-# mystars
+# mystars #
+
 a star repo list
+
+## Golang lib ##
+
+[labstack / echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
+
+[casbin / casbin](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+
+[klauspost / reedsolomon](https://github.com/klauspost/reedsolomon): Reed-Solomon Erasure Coding in Go
+
+[google / uuid](https://github.com/google/uuid): Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+
+[bwmarrin / snowflake](https://github.com/bwmarrin/snowflake): A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
+
+[mattn / go-oci8](https://github.com/mattn/go-oci8): Oracle driver for Go using database/sql
+
+[mitchellh / mapstructure]():Go library for decoding generic map values into native Go structures and vice versa.
+
+[SermoDigital / jose](): A comprehensive set of JWT, JWS, and JWE libraries.
+
+[natefinch / lumberjack](): lumberjack is a log rolling package for Go
+
+[takama / daemon](): A daemon package for use with Go (golang) services
+
+[afex / hystrix-go](): Netflix's Hystrix latency and fault tolerance library, for Go
+
+[alibaba / sentinel-golang](): Sentinel Go version (Reliability & Resilience)
+
+[golang / time](): [mirror] Go supplementary time packages
+
+[yomorun / y3-codec-golang](): Golang implementation of Y3 Codec, a fast than real-time TLV based binary codec with low CPU usage
+
+[sijms / go-ora](): Pure go oracle client
+
+[james4k / fmatter](): A simple YAML Front Matter parser using the launchpad.net/goyaml package.
+
+## Java ##
+
+[alibaba / Sentinel](): A powerful flow control component enabling reliability, resilience and monitoring for microservices. 
+
+[auth0 / java-jwt]():Java implementation of JSON Web Token (JWT)
+
+[auth0 / jwks-rsa-java](): 
+
+[mybatis / spring-boot-starter](): MyBatis integration with Spring Boot
+
+[ulisesbocchio / jasypt-spring-boot](): Jasypt integration for Spring boot
+
+[alibaba / jvm-sandbox](): Real - time non-invasive AOP framework container based on JVM
+
+## CMD line tool ##
+
+[spf13 / pflag](https://github.com/spf13/pflag): Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+
+[spf13 / cobra](https://github.com/spf13/cobra):  A Commander for modern Go CLI interactions
+
+[spf13 / viper](): 
+
+## cloud drive & file sync share ##
+
+[lgs821 / ifilespace](https://github.com/lgs821/ifilespace): cloud drive
+
+[syncthing / syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
+
+## chaos ##
+
+[chaosblade-io / chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.
+
+[jchiatt / react-chaos](): Chaos Engineering for your React apps.
+
+## record/repeat ##
+
+[alibaba / jvm-sandbox-repeater](): A Java server-side recording and playback solution based on JVM-Sandbox
+
+## security ##
+
+[guanzhi / GmSSL](https://github.com/guanzhi/GmSSL):支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+
+[2bdenny / ReScue](https://github.com/2bdenny/ReScue): An automated tool for the detection of regexes' slow-matching vulnerabilities.
+
+## xpn ##
+
+[mellow-io / mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
+
+[jiangxufeng / v2rayL](): v2ray linux GUI客户端，支持订阅、vemss、ss等协议，自动更新订阅、检查版本更新
+
+[233boy / v2ray](): 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+[Qv2ray / Qv2ray](): ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
+
+[v2ray / v2ray-core](): A platform for building proxies to bypass network restrictions.
+
+[Cenmrev / V2RayX](): GUI for v2ray-core on macOS
+
+## performance #
+
+[rakyll / hey](): HTTP load generator, ApacheBench (ab) replacement
+
+[denji / awesome-http-benchmark](): HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+
+[liumiaocn / easypack](): For Cloud Native and DevOps: make popular OSS easily used
+
+## etcd ##
+
+[etcd-io / etcd](): Distributed reliable key-value store for the most critical data of a distributed system
+
+## k8s ##
+
+[kubernetes / sample-controller](): Repository for sample controller. Complements sample-apiserver
+
+[kubernetes / code-generator](): Generators for kube-like API types
+
+[resouer / k8s-controller-custom-resource](): Base sample for a custom controller in Kubernetes working with custom resources
+
+## fonts ##
+
+[be5invis / Sarasa-Gothic](): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+[be5invis / Iosevka](): Versatile typeface for code, from code.
+
+[powerline / fonts](): Patched fonts for Powerline users.
+
+## clickhouse ##
+
+[ContentSquare / chproxy](): Open-Source ClickHouse http proxy and load balancer
+
+## network ##
+
+[google / gopacket](): Provides packet processing capabilities for Go
+
+## AI ##
+
+[babysor / MockingBird](): 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+## dev env & dev tools ##
+
+[cosmtrek / air](): ☁️ Live reload for Go apps
+
+[seisman / how-to-write-makefile](): 跟我一起写Makefile重制版
+
+## Documents ##
+
+[ch3rub1m / api-design-guide](https://github.com/ch3rub1m/api-design-guide): Google Cloud API Design Guide 中文翻译
+
+[StabilityMan / StabilityGuide](): 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+
+## others ##
+
+[wshuyi / demo-batch-markdown-to-pdf](https://github.com/wshuyi/demo-batch-markdown-to-pdf)
+
+[fuergaosi233 / gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf): Grab the contents of the gitbook document and convert it to pdf
+
+[gohugoio / hugo](): The world’s fastest framework for building websites.
+
+[xianmin / hugo-theme-jane](): A readable & concise theme for Hugo
+
+[hashicorp / terraform](https://github.com/hashicorp/terraform): Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amon…
+
+[iina / iina](): The modern video player for macOS.
+
+
