@@ -138,6 +138,8 @@ a star repo list
 
 [housepower / clickhouse_sinker](https://github.com/housepower/clickhouse_sinker): Easily load data from kafka to ClickHouse
 
+[clickvisual / clickvisual](https://github.com/clickvisual/clickvisual): ClickVisual is a lightweight browser-based logs analytics and logs search platform for ClickHouse.
+
 ## network ##
 
 [google / gopacket](https://github.com/google/gopacket): Provides packet processing capabilities for Go
