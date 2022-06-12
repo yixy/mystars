@@ -2,6 +2,10 @@
 
 a star repo list
 
+## Open Source Software ##
+
+[pingcap / ossinsight](https://github.com/pingcap/ossinsight): Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software
+
 ## Golang lib ##
 
 [labstack / echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
@@ -153,6 +157,8 @@ a star repo list
 **Golang**
 
 [cosmtrek / air](https://github.com/cosmtrek/air): ☁️ Live reload for Go apps
+
+[gomods / athens](https://github.com/gomods/athens): A Go module datastore and proxy
 
 **Makefile**
 
