@@ -152,6 +152,10 @@ a star repo list
 
 [babysor / MockingBird](https://github.com/babysor/MockingBird): 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
+## DB ##
+
+[newpanjing / gofoundGoFound](https://github.com/newpanjing/gofoundGoFound)： GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。
+
 ## dev env & dev tools ##
 
 **Golang**
