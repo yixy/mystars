@@ -108,6 +108,8 @@ a star repo list
 
 [Cenmrev / V2RayX](https://github.com/Cenmrev/V2RayX): GUI for v2ray-core on macOS
 
+[andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): trash command line
+
 ## performance #
 
 [rakyll / hey](https://github.com/rakyll/hey): HTTP load generator, ApacheBench (ab) replacement
