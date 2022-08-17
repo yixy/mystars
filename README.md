@@ -181,6 +181,12 @@ a star repo list
 
 [StabilityMan / StabilityGuide](https://github.com/StabilityMan/StabilityGuide): 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
 
+## writing ##
+
+[neovim/neovim](https://github.com/neovim/neovim):Vim-fork focused on extensibility and usability
+
+[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo):🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
 ## others ##
 
 [wshuyi / demo-batch-markdown-to-pdf](https://github.com/wshuyi/demo-batch-markdown-to-pdf)
