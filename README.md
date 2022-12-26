@@ -54,6 +54,8 @@ a star repo list
 
 [alibaba / jvm-sandbox](https://github.com/alibaba/jvm-sandbox): Real - time non-invasive AOP framework container based on JVM
 
+[jvm-profiling-tools/async-profiler](https://github.com/jvm-profiling-tools/async-profiler):Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+
 ## CMD line tool ##
 
 [spf13 / pflag](https://github.com/spf13/pflag): Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
@@ -117,6 +119,10 @@ a star repo list
 [denji / awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark): HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 
 [liumiaocn / easypack](https://github.com/liumiaocn/easypack): For Cloud Native and DevOps: make popular OSS easily used
+
+[brendangregg/perf-tools](https://github.com/brendangregg/perf-tools):Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+
+[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph):Stack trace visualizer
 
 ## etcd ##
 
