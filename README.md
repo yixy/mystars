@@ -193,6 +193,10 @@ a star repo list
 
 [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo):🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
+## ev3 ##
+
+[https://github.com/ev3dev/ev3dev](https://github.com/ev3dev/ev3dev):ev3dev meta - bug tracking, wiki and releases
+
 ## others ##
 
 [wshuyi / demo-batch-markdown-to-pdf](https://github.com/wshuyi/demo-batch-markdown-to-pdf)
