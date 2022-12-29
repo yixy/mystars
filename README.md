@@ -168,6 +168,11 @@ a star repo list
 
 [grafana/grafana](https://github.com/grafana/grafana):The open and composable observability and data visualization platform. 
 
+## performance
+
+[brendangregg/perf-tools](https://github.com/brendangregg/perf-tools):Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+
+[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph):Stack trace visualizer
 
 ## dev env & dev tools ##
 
