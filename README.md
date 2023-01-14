@@ -202,6 +202,12 @@ a star repo list
 
 [https://github.com/ev3dev/ev3dev](https://github.com/ev3dev/ev3dev):ev3dev meta - bug tracking, wiki and releases
 
+## suckless tools
+
+[theniceboy/dwm](https://github.com/theniceboy/dwm):A bloated build of dwm with systemtray, gaps, customized tags and other appearance changes
+
+[theniceboy/st](https://github.com/theniceboy/st):my build of st
+
 ## others ##
 
 [wshuyi / demo-batch-markdown-to-pdf](https://github.com/wshuyi/demo-batch-markdown-to-pdf)
