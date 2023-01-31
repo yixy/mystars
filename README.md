@@ -40,6 +40,8 @@ a star repo list
 
 [james4k / fmatter](https://github.com/james4k/fmatter): A simple YAML Front Matter parser using the launchpad.net/goyaml package.
 
+[barasher/go-exiftool](https://github.com/barasher/go-exiftool):Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...)
+
 ## Java ##
 
 [alibaba / Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. 
