@@ -216,6 +216,12 @@ a star repo list
 
 [fuergaosi233 / gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf): Grab the contents of the gitbook document and convert it to pdf
 
+## chatgpt 
+
+[lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+
+[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
 [gohugoio / hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 
 [xianmin / hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane): A readable & concise theme for Hugo
