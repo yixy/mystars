@@ -229,3 +229,7 @@ a star repo list
 [hashicorp / terraform](https://github.com/hashicorp/terraform): Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amon…
 
 [iina / iina](https://github.com/iina/iina): The modern video player for macOS.
+
+## wsl
+
+[nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod):Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc.
